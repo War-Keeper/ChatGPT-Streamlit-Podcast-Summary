@@ -57,7 +57,7 @@ def main():
 
     # User Input box
     st.sidebar.subheader("Add and Process New Podcast Feed")
-    url = = None # st.sidebar.text_input("Link to RSS Feed")
+    url = None # st.sidebar.text_input("Link to RSS Feed")
 
     process_button = None # st.sidebar.button("Process Podcast Feed")
     st.sidebar.markdown("**Note**: Podcast processing can take upto 5 mins, please be patient.")
